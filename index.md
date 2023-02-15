@@ -9,8 +9,22 @@ excerpt: "MCS Lab. conducts research on recent technologies in Mobility and Cybe
 
 MCS Lab. conducts research on recent technologies in Mobility and Cybersecurity.
 
-## Features
 
+## Research topics
+
+### Automotive Cybersecurity Technology and Regulation
+
+- TARA (Threat Analysis and Risk Assessment) methods
+- CSMS (Cyber Security Management Systems) based on UN Regulation No. 155 and ISO/SAE 21434
+- Anomaly Behavior and Intrusion Detection for In-Vehicle Networks
+- Plug and Charge based on ISO 15118
+
+### Fundamental Technology for Autonomous Vehicle
+
+- Recognizing moving objects from Multiple sensing data fusion
+- Trajectory Planning for Collision Avoidance
+
+<!--
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
@@ -26,6 +40,7 @@ MCS Lab. conducts research on recent technologies in Mobility and Cybersecurity.
 - Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
+
 
 ## Examples
 
@@ -89,3 +104,4 @@ When using Alembic as a theme means you can take advantage of the file overridin
 To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
 If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+-->
