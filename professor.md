@@ -1,17 +1,17 @@
 ---
-title:
+title: Seunghyun Park, Ph.D
 feature_text: |
-  ## Lab members
+  ## Faculty member
 
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
-aside: flase
+aside: true
 ---
-
-#### _To be described_
 
 <!--
 # Heading 1
+-->
+* * *
 
 ### Education
 ###### Ph.D in Cybersecurity (Feb. 2021)
@@ -69,6 +69,7 @@ aside: flase
 * **Web Framework 2**: Node.js & Express.js
 * **Web Framework 1**: React.js with Modern JavaScript
 
+<!--
 
 [A link](https://david.darn.es "A link")
 

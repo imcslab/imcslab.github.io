@@ -1,75 +1,33 @@
 ---
-title:
+title: To be updated each title and description
 feature_text: |
-  ## Lab members
+  ## Research
 
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
-aside: flase
+aside: false
 ---
-
-#### _To be described_
 
 <!--
 # Heading 1
+-->
+* * *
 
-### Education
-###### Ph.D in Cybersecurity (Feb. 2021)
-* School of Cybersecurity, Korea University
-* Thesis: Data-driven Anomaly Detection using Hierarchical Multi-labeled Classification for Vehicular Communications (Advisor: Prof. Jin-Young Choi)
+### Automotive Cybersecurity
+* **Plug and charge and ISO 15118**
+* **Cybersecurity management system, UN R.155 and ISO/SAE 21434**
+* **TARA and PIER method for cybersecurity risk assessment**
+* **CAN IDS and SoC**
+* **Automotive OTA software update**
+* **Auto-ISAC council**
 
-###### M.S in Computer Science and Engineering (Feb. 2008)
-* College of Informatics, Korea University
-* Thesis: Formal Verification of UML State Machines (Advisor: Prof. Jin-Young Choi)
+### Research Projects
+* **Research on Automotive Cybersecurity Threat Analysis and Risk Assessment Methodology** (2021.9~2022.8, Hansung University)
+* **Research on Security Authentication Technology for Automatic Charging and Payment of Electric Vehicles** (2022.9~2024.2, Hansung University)
+* **Research on Moving Objects Recognition Technology for Autonomous Driving Collision Avoidance Control** (2022.9~2024.2, Hansung University)
+* **Modeling Research for Multi-link Operation of Wi-Fi 7** (2022.9~2024.2, Hansung University)
 
-###### B.S in Computer Science and Engineering (Feb. 2006)
-* Division of Computer Science and Engineering, Chung-Ang University
-
-### Positions and responsibilities
-###### Assistant Professor (Sep. 2021 - _current_)
-* **Division of Computer Engineering, Hansung University**
-> Web Engineering, Automotive Cybersecurity
-
-###### Senior Manager (Dec. 2014 - Aug. 2021)
-* **Hyundai Security Center, Hyundai Motor Company and Kia**
-> Cybersecurity crisis management, Risk assessment and incident response, Automotive security for connectivity services, CAN IDS and SoC, Plug and Charge security infrastructures, Cybersecurity governace for vehicle IT environment and security infrastructures, Auto-ISAC council
-
-###### Manager (May 2011 - Nov. 2014)
-* **Advanced Institute of Technology, Korea Telecom Corp.**
-> Research of data analytic models in social media platform for Adaptive IPTV Service, Developmrnt of intelligent knowledge service for social media and web-based IPTV platform
-
-###### Research Engineer (Feb 2008 - Apr. 2011)
-* **Mobile Communications Lab., LG Electronics Inc.**
-> Mobile connectivity software, Development in Media Transfer Protocol, OMA SyncML DS, Rich Communication Suite
-
-### Skills and interests
-###### Automotive cybersecurity
-* Automotive security regulation and compliance (UN Regulation No.155, ISO/SAE 21434)
-* Connected vehicles security
-* Threat Analysis and Risk Assessment (TARA) methods
-* Plug and charge security (ISO 15118)
-* In-vehicle network security (CAN IDS, gateway, ethernet firewalls)
-
-###### Security policy and technology
-* Secure software development process
-* Crisis management and incident responses
-* Web and mobile security inspection
-* Public cloud security
-
-### Professional activities
-* **Executive committee**: The Korean Institute of Communications and Information Sciences (KICS)
-* **Review**: IEEE Transactions on Vehicular Technology (TVT)
-* **Program committee**: International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing (IMIS)
-* **Advisory**: Korea Health Information Service, Audit and Inspection Research Institute, Korea Labor and Employment Service
-
-### Lectures
-* **Web Programming**: HTML5, CSS3, JavaScript
-* **Open Source Software**: Opensouce software license, source code control
-* **Information Security**: Cryptographic tools, Symmetric encryption, Web security, IT security management and compliance
-* **Web Framework 2**: Node.js & Express.js
-* **Web Framework 1**: React.js with Modern JavaScript
-
-
+<!--
 [A link](https://david.darn.es "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
