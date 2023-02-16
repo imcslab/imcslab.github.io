@@ -10,19 +10,19 @@ excerpt: "The MCS Lab. researches recent theories and technologies in Mobility a
 The MCS Lab. researches recent theories and technologies in Mobility and Cybersecurity.
 
 
-## Research topics
+### Research topics
 
-#### Automotive Cybersecurity Technology and Regulation
+##### Automotive Cybersecurity Technology and Regulation
 * TARA (Threat Analysis and Risk Assessment) methods
 * CSMS (Cyber Security Management Systems) based on UN Regulation No. 155 and ISO/SAE 21434
 - Anomaly Behavior and Intrusion Detection for In-Vehicle Networks
 - Plug and Charge based on ISO 15118
 
-#### Fundamental Technology for Autonomous Vehicle
+##### Fundamental Technology for Autonomous Vehicle
 * Recognizing moving objects from Multiple sensing data fusion
 * Trajectory Planning for Collision Avoidance
 
-## Contact
+### Contact
 * **Address**: \#329, Research bldg., Hansung University, 116, Samseongyo-ro 16-gil, Seongbuk-gu, Seoul 02876, South Korea
 * **Email**: [sp@hansung.ac.kr](mailto:sp@hansung.ac.kr)
 
