@@ -1,63 +1,64 @@
 ---
-title: To be updated each title and description
+title: Research Themes
 feature_text: |
   ## Research
 
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/uploads/bg_5_r2.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
 
-<!--
-# Heading 1
--->
-
 * * *
+
 
 ### Automotive Cybersecurity
 
 * **Motivation**: Connected-Car Hacking and Fatal Crash in Driving Automatgion
   * Jeep Chrokee Hacked (by C. Miller and C. Valasek, at Black hat 2015)
   > Automotive hack paradigm changed: via wireless network, unspecified targets, direct to safety, determined of manufactures responsibilities
-  * Tesla Autopilot Accident (Florida, May 2016)
-
+  * Autopilot Accident (Florida, May 2016)
 {% include figure.html image="/assets/uploads/Research_motivation_CC-Hack_crop.png" caption="Motivation: Connected-Car Hacking" width="600" %}
-
 {% include figure.html image="/assets/uploads/Research_motivation_Crash-AV_crop.png" caption="Motivation: Fatal Crash in Driving Automation" width="600" %}
 
 * **Plug and charge and ISO 15118**
-* **Cybersecurity management system, UN R.155 and ISO/SAE 21434**
+  * [Research #2: PnC](#research-projects)
 
-{% include figure.html image="/assets/uploads/Research_Regulations.png" caption="Automotive Regulations for Safety and Security" width="600" %}
+* **Cybersecurity management system, UN R.155 and ISO/SAE 21434**
+  * Law and regulation trends in automobiles require reinforcement of security as well as safety
+
+{% include figure.html image="/assets/uploads/Research_Regulations_crop.png" caption="Automotive Regulations for Safety and Security" width="600" %}
 
 * **TARA and PIER method for cybersecurity risk assessment**
-* **CAN IDS and SoC**
+  * [Research #1: TARA & PIER](#research-projects)
+
+* **In-Vehicle IDS and Remote Analysis**
   * Automotive Intrusion Detection Research of message and States Learning In-Vehicle Network
   * NotClassifying data that will not be used based on the Hierarchical Multi-Class Model
-
 {% include figure.html image="/assets/uploads/Research_IDS1_crop.png" caption="Intrusion Detection for In-Vehicle Network" width="600" %}
-
 {% include figure.html image="/assets/uploads/Research_IDS2_crop.png" caption="Hierarchical Multi-labeled Hierarchical Classification Method for Intrusion Detection" width="600" %}
 
 * **Automotive OTA software update**
-
-{% include figure.html image="/assets/uploads/Research_AutomotiveOTA.png" caption="Automotive Software Update Over-The-Air (OTA)" width="600" %}
-
+  * Integrity validation of ECU software to prevent manipulated code injection attacks
+{% include figure.html image="/assets/uploads/Research_AutomotiveOTA_crop.png" caption="Automotive Software Update Over-The-Air (OTA)" width="600" %}
 
 * **Auto-ISAC council**
+  * Enhancing cybersecurity and sharing information on cyber threats and vulnerabilities among the automobile industrial members and US Governments since 2015
+  > Auto-ISAC aims to promote collaboration and coordination among its members, such as vehicle manufacturers, suppliers, and automotive cybersecurity professionals
+{% include figure.html image="/assets/uploads/Research_AutoISAC_crop.png" caption="Automotive Software Update Over-The-Air (OTA)" width="600" %}
 
 ### Research Projects
 * **Research on Automotive Cybersecurity Threat Analysis and Risk Assessment Methodology** (2021.9~2022.8, Hansung University)
-
-{% include figure.html image="/assets/uploads/Research_TARA_PIER.png" caption="PIER method for TARA" width="600" %}
+  * Risk assessment from cyber threats, vulnerabilities, likelihood, and damages on target vehicles
+  > The PIER approach, which considers cyber-resilience, covers not only the risk factors of probability and impact, but also exposure and recovery
+{% include figure.html image="/assets/uploads/Research_TARA_PIER_crop.png" caption="PIER method for TARA" width="600" %}
 
 * **Research on Security Authentication Technology for Automatic Charging and Payment of Electric Vehicles** (2022.9~2024.2, Hansung University)
-
-{% include figure.html image="/assets/uploads/Research_PnC.png" caption="PnC based on ISO 15118" width="600" %}
+  * Authorization for EV charging and automatic payment based on ISO 15118 using PKI and X.509
+{% include figure.html image="/assets/uploads/Research_PnC_crop.png" caption="PnC based on ISO 15118" width="600" %}
 
 * **Research on Moving Objects Recognition Technology for Autonomous Driving Collision Avoidance Control** (2022.9~2024.2, Hansung University)
-
-{% include figure.html image="/assets/uploads/Research_CollisionAvoidance.png" caption="Collision Avoidance for Autonomous Driving" width="600" %}
+  * Prediction of movement and interference of moving objects in the driving trajectory
+{% include figure.html image="/assets/uploads/Research_CollisionAvoidance_crop.png" caption="Collision Avoidance for Autonomous Driving" width="600" %}
 
 * **Modeling Research for Multi-link Operation of Wi-Fi 7** (2022.9~2024.2, Hansung University)
 

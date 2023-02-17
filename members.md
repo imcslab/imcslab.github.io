@@ -1,14 +1,16 @@
 ---
-title:
+title: Lab. members
 feature_text: |
-  ## Lab members
+  ## Members
 
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/uploads/bg_4_r2.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: flase
 ---
 
-#### _To be described_
+* * *
+
+### _To be listed_
 
 <!--
 # Heading 1

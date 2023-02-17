@@ -3,7 +3,7 @@ title: about MCS Lab.
 feature_text: |
   ## Mobility and Cybersecurity Lab.
 
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/uploads/bg_2_r2.jpg"
 excerpt: "The MCS Lab. researches recent theories and technologies in Mobility and Cybersecurity."
 ---
 
