@@ -11,6 +11,10 @@ aside: false
 * * *
 
 ### International Journal
+* Dynamic Transmission and Delay Optimization Random Access for Reduced Power Consumption, _IEEE Access_, vol. 12, 55033-55050, 2024.
+
+* **Improvement of the Defense Planning and Management System to Implement ROK’s National Cybersecurity Strategy**, _The Korean Journal of Defense Analysis_, vol. 35, no. 3, pp. 337-360, 2023.
+
 * Fairness-Based Multi-AP Coordination Using Federated Learning in Wi-Fi 7, _Sensors_ 2022, vol. 22, 9776, pp. 1-14, 2022.
 
 * **PIER: cyber-resilient risk assessment model for connected and autonomous vehicles**, _Wireless Networks_, 2022, pp. 1-15, 2022.
