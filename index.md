@@ -12,6 +12,16 @@ The MCS Lab. researches recent theories and technologies in Mobility and Cyberse
 
 ### Research topics
 
+##### News
+We look forward to receiving your application and possibly welcoming you to our team at MCS Lab!
+
+* **Join Our Innovative Research Team for Mobility and Cybersecurity at MCS Lab!**
+* Position: Graduate Research Opportunities (Master's and Doctoral Program)
+* Supervisor: Prof. Seunghyun Park ( sp@hansung.ac.kr )
+
+
+### Research topics
+
 ##### Automotive Cybersecurity Technology and Regulation
 * TARA (Threat Analysis and Risk Assessment) methods
 * CSMS (Cyber Security Management Systems) based on UN Regulation No. 155 and ISO/SAE 21434
