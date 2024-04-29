@@ -10,9 +10,11 @@ excerpt: ""
 The MCS Lab. is renowned for pioneering research in Mobility and Cybersecurity. Under the expert guidance of Prof. Seunghyun Park, we are dedicated to pushing the boundaries of technology and creating solutions that impact both academia and industry.
 
 
+
 ##### News
-We look forward to receiving your application and possibly welcoming you to our team at MCS Lab. Join Our Innovative Research Team for Mobility and Cybersecurity at MCS Lab!
-* Position: Graduate Research Opportunities (Master's and Doctoral Program)
+We look forward to receiving your application and possibly welcoming you to our team at MCS Lab. **Join Our Innovative Research Team for Mobility and Cybersecurity at MCS Lab!**
+* Research Topic: Automotive Software for Cybersecurity _such as Blockchain and Smart Contract, Anomaly Detection for CAN IDS, PKI for EV Plug and Charge_
+* Position: Master or Doctoral Program for Graduate Research Opportunities
 * Supervisor: Prof. Seunghyun Park ( sp@hansung.ac.kr )
 
 
