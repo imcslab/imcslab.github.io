@@ -33,7 +33,9 @@ We look forward to receiving your application and possibly welcoming you to our 
 * Automotive Software Update Over-The-Air (Automotive OTA)
 
 ### Contact
-* **Office and Lab.**: (Office) \#329, Research Hall, (Lab.) \#113, Engineering Bldg. B 
+* **Office and Lab.**
+  * Office:  \#329, Research Hall
+  * Lab.: \#113, Engineering Bldg. B
   * Hansung University, 116, Samseongyo-ro 16-gil, Seongbuk-gu, Seoul 02876, South Korea
 * **Email**: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))
 
