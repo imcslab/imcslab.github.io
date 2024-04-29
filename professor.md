@@ -54,10 +54,12 @@ aside: true
 * Public cloud security
 
 ### Professional activities
-* **Executive committee**: The Korean Institute of Communications and Information Sciences (KICS)
-* **Review**: IEEE Transactions on Vehicular Technology (TVT)
-* **Program committee**: International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing (IMIS)
-* **Advisory**: Korea Health Information Service, Audit and Inspection Research Institute, Korea Labor and Employment Service
+* **Executive committee**: The Korean Institute of Communications and Information Sciences (KICS), Korea Institute of Information Security and Cryptology (KIISC)
+* **Review**: IEEE Transactions on Vehicular Technology (IEEE TVT), Vehicles, Sensors, The Transactions of the Korean Society Automotive Engineers (Trans. KSAE), The Journal of Korean Institute of Communications and Information Sciences (JKICS), KIPS Transactions on Computer and Communication systems (KTCCS)
+* **Program committee**: ICISC (International Conference on Information Security and Cryptology), IMIS (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing), Broadband and Wireless Computing, Communication and Applications (BWCCA), P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC)
+* **Organizing committee**: International Conference on Ubiquitous and Future Networks (ICUFN 2023/2024), Joint Conference on Communications and Information (JCCI 2024), KICS Summer Conference 2024, and KSAE 2024 Spring Conference
+* **Advisory**: Auto-ISAC Committee (Acamedic Member), Korea Health Information Service (KHIS), Korea Labor and Employment Service (KLES), Audit and Inspection Research Institute (BAI), Korea Expressway Corporation (KEC), Industrial Bank of Korea (IBK Bank), International Constructors Association of Korea (ICAK), ez Caretech, CIoT
+* **Invited Talks**: _Secure Connected and Autonomous Vehicles: Research Trends and Challenges_ in Keynote BWCCA/3PGCIC 2023, Special lecture in Intelligent Mobility at Korea University, WISC 2023, KIISE SWCC 2023, KICS Winter Conference 2023, SCH Mobility Workshop 2023, Special lecture in Mobility Security at Dankook University
 
 ### Lectures
 * **Web Programming**: HTML5, CSS3, JavaScript
