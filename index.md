@@ -4,13 +4,14 @@ feature_text: |
   ## Mobility and Cybersecurity Lab.
 
 feature_image: "/assets/uploads/bg_2_r2.jpg"
-excerpt: "The MCS Lab. is renowned for pioneering research in Mobility and Cybersecurity. Under the expert guidance of Prof. Seunghyun Park, we are dedicated to pushing the boundaries of technology and creating solutions that impact both academia and industry."
+excerpt: ""
 ---
 
-##### News
-We look forward to receiving your application and possibly welcoming you to our team at MCS Lab!
+The MCS Lab. is renowned for pioneering research in Mobility and Cybersecurity. Under the expert guidance of Prof. Seunghyun Park, we are dedicated to pushing the boundaries of technology and creating solutions that impact both academia and industry.
 
-* **Join Our Innovative Research Team for Mobility and Cybersecurity at MCS Lab!**
+
+##### News
+We look forward to receiving your application and possibly welcoming you to our team at MCS Lab. Join Our Innovative Research Team for Mobility and Cybersecurity at MCS Lab!
 * Position: Graduate Research Opportunities (Master's and Doctoral Program)
 * Supervisor: Prof. Seunghyun Park ( sp@hansung.ac.kr )
 
