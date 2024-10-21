@@ -11,6 +11,8 @@ aside: false
 * * *
 
 ### International Journal
+* Energy optimization and age of information enhancement in multi-UAV networks using deep reinforcement learning, _Electronics Letters_, vol. 60, no. 20, pp. 1-4, 2024.
+
 * Dynamic Transmission and Delay Optimization Random Access for Reduced Power Consumption, _IEEE Access_, vol. 12, 55033-55050, 2024.
 
 * **Improvement of the Defense Planning and Management System to Implement ROK’s National Cybersecurity Strategy**, _The Korean Journal of Defense Analysis_, vol. 35, no. 3, pp. 337-360, 2023.
