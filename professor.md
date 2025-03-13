@@ -26,6 +26,8 @@ aside: true
 ###### Assistant Professor (Sep. 2021 - _current_)
 * **Division of Computer Engineering, Hansung University**
 > Web Engineering, Automotive Cybersecurity
+* **Industrial-Academic Education Support Center, Hansung University**
+> Director
 
 ###### Senior Manager (Dec. 2014 - Aug. 2021)
 * **Hyundai Security Center, Hyundai Motor Company and Kia**
@@ -56,17 +58,18 @@ aside: true
 ### Professional activities
 * **Executive committee**: The Korean Institute of Communications and Information Sciences (KICS), Korea Institute of Information Security and Cryptology (KIISC)
 * **Review**: IEEE Transactions on Vehicular Technology (IEEE TVT), Vehicles, Sensors, The Transactions of the Korean Society Automotive Engineers (Trans. KSAE), The Journal of Korean Institute of Communications and Information Sciences (JKICS), KIPS Transactions on Computer and Communication systems (KTCCS)
-* **Program committee**: ICISC (International Conference on Information Security and Cryptology), IMIS (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing), Broadband and Wireless Computing, Communication and Applications (BWCCA), P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC)
-* **Organizing committee**: International Conference on Ubiquitous and Future Networks (ICUFN 2023/2024), Joint Conference on Communications and Information (JCCI 2024), KICS Summer Conference 2024, and KSAE 2024 Spring Conference
+* **Editorial Board Member**: KIISC (2025)
+* **Program committee**: ICISC (International Conference on Information Security and Cryptology), IMIS (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing), Broadband and Wireless Computing, Communication and Applications (BWCCA), P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC), KIISC
+* **Organizing committee**: International Conference on Ubiquitous and Future Networks (ICUFN 2023/2024/2025), Joint Conference on Communications and Information (JCCI 2024/2025), KICS Conference (2024 Summer), and KSAE Conference (2024 Spring)
 * **Advisory**: Auto-ISAC Committee (Acamedic Member), Korea Health Information Service (KHIS), Korea Labor and Employment Service (KLES), Audit and Inspection Research Institute (BAI), Korea Expressway Corporation (KEC), Industrial Bank of Korea (IBK Bank), International Constructors Association of Korea (ICAK), ez Caretech, CIoT
-* **Invited Talks**: _Secure Connected and Autonomous Vehicles: Research Trends and Challenges_ in Keynote BWCCA/3PGCIC 2023, Special lecture in Intelligent Mobility at Korea University, WISC 2023, KIISE SWCC 2023, KICS Winter Conference 2023, SCH Mobility Workshop 2023, Special lecture in Mobility Security at Dankook University
+* **Invited Talks**: _Secure Connected and Autonomous Vehicles: Research Trends and Challenges_ in Keynote BWCCA/3PGCIC 2023, Special lecture in Intelligent Mobility at Korea University, WISC 2023, KIISE SWCC 2023, KICS Winter Conference 2023, SCH Mobility Workshop 2023, Special lecture in Mobility Security at Dankook University 2024, Automotive and Unmanned Mobility Security Workshop 2024 at KIISC, Future Communication Technology Workshop 2024 at KICS
 
 ### Lectures
+* **Information Security**: Cryptographic tools, Symmetric encryption, Web security, IT security management and compliance
+* **Web Framework 1**: React.js with Modern JavaScript
+* **Web Framework 2**: Node.js & Express.js
 * **Web Programming**: HTML5, CSS3, JavaScript
 * **Open Source Software**: Opensouce software license, source code control
-* **Information Security**: Cryptographic tools, Symmetric encryption, Web security, IT security management and compliance
-* **Web Framework 2**: Node.js & Express.js
-* **Web Framework 1**: React.js with Modern JavaScript
 
 <!--
 
