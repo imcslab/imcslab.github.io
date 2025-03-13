@@ -47,7 +47,7 @@ aside: false
 
 
 ### International Conferences
-* **Performance Comparison of Multi-class SVM with Oversampling Methods for Imbalanced Data Classification**, _KICS Winter Conference 2025, pp. 1132-1133, 2025. *Outstanding Undergraduate Paper Award*
+* **Performance Comparison of Multi-class SVM with Oversampling Methods for Imbalanced Data Classification**, _KICS Winter Conference 2025_, pp. 1132-1133, 2025. **Outstanding Undergraduate Paper Award**
 
 
 <!--
