@@ -34,8 +34,8 @@ The IMCS Lab. is renowned for pioneering research in Intelligent Mobility and Cy
 * Automotive Software Update Over-The-Air (Automotive OTA)
 
 ### Contact
-* **Lab**: \#500, IMCS Lab., Engineering Bldg(A), Hansung University, Seongbuk-gu, Seoul 02876, South Korea
-* **Address**: \#329, Research Hall at Hansung University
+* **Lab.**: \#500, IMCS Lab., A-Engineering Bldg, Hansung University, Seongbuk-gu, Seoul 02876, South Korea
+* **Office**: \#329, Research Hall at Hansung University
 * **Email**: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))
 
 <!--
