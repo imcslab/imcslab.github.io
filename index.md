@@ -15,7 +15,7 @@ The IMCS Lab. is renowned for pioneering research in Intelligent Mobility and Cy
 1) We look forward to receiving your application and possibly welcoming you to our team at IMCS Lab. **Join Our Innovative Research Team for Mobility and Cybersecurity at IMCS Lab!**
 * Research Topic: **Automotive Software for Cybersecurity** _such as Anomaly Detection for CAN IDS, PKI for EV Plug and Charge, Blockchain and Smart Contract for Automotive Transactions_
 * Position: Master or Doctoral Program for Graduate Research Opportunities
-* Supervisor: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))
+* Director: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))
 
 2) The website address has been changed to [https://imcslab.github.io](https://imcslab.github.io)
 
