@@ -1,5 +1,5 @@
 ---
-title: Seunghyun Park, Ph.D
+title: Prof. Seunghyun Park
 feature_text: |
   ## Faculty member
 
