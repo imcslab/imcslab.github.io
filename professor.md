@@ -56,7 +56,7 @@ aside: true
 * Public cloud security
 
 ### Professional activities
-* **Executive committee**: The Korean Institute of Communications and Information Sciences (KICS), Korea Institute of Information Security and Cryptology (KIISC)
+* **Executive committee**: The Korean Institute of Communications and Information Sciences (KICS), Korea Institute of Information Security and Cryptology (KIISC), Korean Society Automotive Engineers (KSAE): Electrical and Electronic Systems Division, Converged Software and AI Division
 * **Review**: IEEE Transactions on Vehicular Technology (IEEE TVT), Vehicles, Sensors, The Transactions of the Korean Society Automotive Engineers (Trans. KSAE), The Journal of Korean Institute of Communications and Information Sciences (JKICS), KIPS Transactions on Computer and Communication systems (KTCCS)
 * **Editorial Board Member**: KIISC (2025)
 * **Program committee**: ICISC (International Conference on Information Security and Cryptology), IMIS (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing), Broadband and Wireless Computing, Communication and Applications (BWCCA), P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC), KIISC

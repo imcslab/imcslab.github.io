@@ -46,6 +46,10 @@ aside: false
 * **ANN Based Intrusion Detection Model**, _Web, Artificial Intelligence and Network Applications_ (_WAINA 2019_), _Advances in Intelligent Systems and Computing_, vol. 927, pp. 433-437, 2019.
 
 
+### International Conferences
+* **Performance Comparison of Multi-class SVM with Oversampling Methods for Imbalanced Data Classification**, _KICS Winter Conference 2025, pp. 1132-1133, 2025. *Outstanding Undergraduate Paper Award*
+
+
 <!--
 
 [A link](https://david.darn.es "A link")
