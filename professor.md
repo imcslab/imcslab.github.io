@@ -29,15 +29,15 @@ aside: true
 * **Industrial-Academic Education Support Center**
 > Director (Feb. 2024 -- _current_)
 
-###### Senior Manager (Dec. 2014 - Aug. 2021)
+###### Senior Manager (Dec. 2014 -- Aug. 2021)
 * **Hyundai Security Center, Hyundai Motor Company and Kia**
 > Cybersecurity crisis management, Risk assessment and incident response, Automotive security for connectivity services, CAN IDS and SoC, Plug and Charge security infrastructures, Cybersecurity governace for vehicle IT environment and security infrastructures, Auto-ISAC council
 
-###### Manager (May 2011 - Nov. 2014)
+###### Manager (May 2011 -- Nov. 2014)
 * **Advanced Institute of Technology, Korea Telecom Corp.**
 > Research of data analytic models in social media platform for Adaptive IPTV Service, Developmrnt of intelligent knowledge service for social media and web-based IPTV platform
 
-###### Research Engineer (Feb 2008 - Apr. 2011)
+###### Research Engineer (Feb 2008 -- Apr. 2011)
 * **Mobile Communications Lab., LG Electronics Inc.**
 > Mobile connectivity software, Development in Media Transfer Protocol, OMA SyncML DS, Rich Communication Suite
 
