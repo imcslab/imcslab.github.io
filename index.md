@@ -1,22 +1,23 @@
 ---
-title: about MCS Lab.
+title: about IMCS Lab.
 feature_text: |
-  ## Mobility and Cybersecurity Lab.
+  ## Intelligent Mobility and Cybersecurity Lab.
 
 feature_image: "/assets/uploads/bg_2_r2.jpg"
 excerpt: ""
 ---
 
-The MCS Lab. is renowned for pioneering research in Mobility and Cybersecurity. Under the expert guidance of Prof. Seunghyun Park, we are dedicated to pushing the boundaries of technology and creating solutions that impact both academia and industry.
+The IMCS Lab. is renowned for pioneering research in Intelligent Mobility and Cybersecurity. Under the expert guidance of Prof. Seunghyun Park, we are dedicated to pushing the boundaries of technology and creating solutions that impact both academia and industry.
 
 
 
 ##### News
-We look forward to receiving your application and possibly welcoming you to our team at MCS Lab. **Join Our Innovative Research Team for Mobility and Cybersecurity at MCS Lab!**
+1. We look forward to receiving your application and possibly welcoming you to our team at IMCS Lab. **Join Our Innovative Research Team for Mobility and Cybersecurity at IMCS Lab!**
 * Research Topic: **Automotive Software for Cybersecurity** _such as Anomaly Detection for CAN IDS, PKI for EV Plug and Charge, Blockchain and Smart Contract for Automotive Transactions_
 * Position: Master or Doctoral Program for Graduate Research Opportunities
 * Supervisor: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))
 
+2. The website address has been changed to [sp@hansung.ac.kr](https://imcslab.github.io)
 
 ### Research topics
 
@@ -33,9 +34,9 @@ We look forward to receiving your application and possibly welcoming you to our 
 * Automotive Software Update Over-The-Air (Automotive OTA)
 
 ### Contact
-* **Address**: \#329, Research Hall, Hansung University, Seongbuk-gu, Seoul 02876, South Korea
+* **Lab**: \#500, IMCS Lab., Engineering Bldg(A), Hansung University, Seongbuk-gu, Seoul 02876, South Korea
+* **Address**: \#329, Research Hall at Hansung University
 * **Email**: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))
-
 
 <!--
 - Available as a **theme gem** and **GitHub Pages** theme
