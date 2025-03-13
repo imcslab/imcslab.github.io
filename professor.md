@@ -23,11 +23,11 @@ aside: true
 * Division of Computer Science and Engineering, Chung-Ang University
 
 ### Positions and responsibilities
-###### Assistant Professor, Hansung University (Sep. 2021 - _current_)
+###### Assistant Professor, Hansung University (Sep. 2021 -- _current_)
 * **Division of Computer Engineering**
 > Web Engineering, Automotive Cybersecurity
 * **Industrial-Academic Education Support Center**
-> Director (Feb. 2024 - _current_)
+> Director (Feb. 2024 -- _current_)
 
 ###### Senior Manager (Dec. 2014 - Aug. 2021)
 * **Hyundai Security Center, Hyundai Motor Company and Kia**
