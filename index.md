@@ -17,7 +17,7 @@ The IMCS Lab. is renowned for pioneering research in Intelligent Mobility and Cy
 * Position: Master or Doctoral Program for Graduate Research Opportunities
 * Supervisor: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))
 
-2) The website address has been changed to [sp@hansung.ac.kr](https://imcslab.github.io)
+2) The website address has been changed to [https://imcslab.github.io](https://imcslab.github.io)
 
 ### Research topics
 
