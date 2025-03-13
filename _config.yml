@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Seunghyun Park" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Prof. Seunghyun Park has been an Assistant Professor in the Division of Computer Engineering at Hansung University, Seoul, Korea, since 2021. His research focuses on automotive cybersecurity, autonomous driving, information security, and web engineering. He also serves as an executive committee for the Korean Institute of Communications and Information Sciences (KICS) since 2023, the Korea Institute of Information Security and Cryptology (KIISC) since 2024 and Electrical and Electronic Systems Division, Converged Software and AI Division of the Korean Society Automotive Engineers (KSAE) since 2025." # Site description and default description, also used in jekyll-seo-tag
+description: "Prof. Seunghyun Park has been an Assistant Professor in the Division of Computer Engineering at Hansung University, Seoul, Korea, since 2021. His research focuses on automotive cybersecurity, autonomous driving, information security, and web engineering. He also serves as an executive committee for the KICS since 2023, the KIISC since 2024 and Electrical \& Electronic Systems and Converged Software \& AI Divisions of the KSAE since 2025." # Site description and default description, also used in jekyll-seo-tag
 url: "https://sp-mcslab.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/sp-mcslab"
