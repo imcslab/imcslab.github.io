@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Seunghyun Park" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Prof. Seunghyun Park has been an Assistant Professor in the Division of Computer Engineering and the Director of the IMCS Lab at Hansung University, Seoul, Korea, since 2021. His research focuses on automotive cybersecurity, autonomous driving, information security, and web engineering. He has been serving as an executive committee member of the KICS since 2023, the KIISC since 2024, and the Electrical \& Electronic Systems and the Converged Software \& AI Divisions of the KSAE since 2025. Additionally, he serves as the Director of the Industry-Academic Education Support Center at Hansung University." # Site description and default description, also used in jekyll-seo-tag
+description: "Prof. Seunghyun Park has been an Assistant Professor in the Division of Computer Engineering and the Director of the IMCS Lab at Hansung University, Seoul, Korea, since 2021. His research focuses on automotive cybersecurity, autonomous driving, information security, and web engineering. He has been serving as an executive committee member of the KICS since 2023, the KIISC since 2024, and the Electrical & Electronic Systems and the Converged Software & AI Divisions of the KSAE since 2025. Additionally, he serves as the Director of the Industry-Academic Education Support Center at Hansung University." # Site description and default description, also used in jekyll-seo-tag
 url: "https://imcslab.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/imcslab"
