@@ -59,8 +59,8 @@ aside: true
 * **Executive committee**: The Korean Institute of Communications and Information Sciences (KICS), Korea Institute of Information Security and Cryptology (KIISC), Korean Society Automotive Engineers (KSAE): Electrical and Electronic Systems Division, Converged Software and AI Division
 * **Review**: IEEE Transactions on Vehicular Technology (IEEE TVT), Vehicles, Sensors, The Transactions of the Korean Society Automotive Engineers (Trans. KSAE), The Journal of Korean Institute of Communications and Information Sciences (JKICS), KIPS Transactions on Computer and Communication systems (KTCCS)
 * **Editorial Board Member**: KIISC (2025)
-* **Program committee**: ICISC (International Conference on Information Security and Cryptology), IMIS (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing), Broadband and Wireless Computing, Communication and Applications (BWCCA), P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC), KIISC
-* **Organizing committee**: International Conference on Ubiquitous and Future Networks (ICUFN 2023/2024/2025), Joint Conference on Communications and Information (JCCI 2024/2025), KICS Conference (2024 Summer), and KSAE Conference (2024 Spring)
+* **Program committee**: ICISC (International Conference on Information Security and Cryptology), IMIS (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing), Broadband and Wireless Computing, Communication and Applications (BWCCA), P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC), KSAE Conference (2024 Spring), KIISC Conference (2025 Summer)
+* **Organizing committee**: International Conference on Ubiquitous and Future Networks (ICUFN 2023/2024/2025), Joint Conference on Communications and Information (JCCI 2024/2025), KICS Conference (2024 Summer, 2025 Winter)
 * **Advisory**: Auto-ISAC Committee (Acamedic Member), Korea Health Information Service (KHIS), Korea Labor and Employment Service (KLES), Audit and Inspection Research Institute (BAI), Korea Expressway Corporation (KEC), Industrial Bank of Korea (IBK Bank), International Constructors Association of Korea (ICAK), ez Caretech, CIoT
 * **Invited Talks**: _Secure Connected and Autonomous Vehicles: Research Trends and Challenges_ in Keynote BWCCA/3PGCIC 2023, Special lecture in Intelligent Mobility at Korea University, WISC 2023, KIISE SWCC 2023, KICS Winter Conference 2023, SCH Mobility Workshop 2023, Special lecture in Mobility Security at Dankook University 2024, Automotive and Unmanned Mobility Security Workshop 2024 at KIISC, Future Communication Technology Workshop 2024 at KICS
 
@@ -70,6 +70,7 @@ aside: true
 * **Web Framework 2**: Node.js & Express.js
 * **Web Programming**: HTML5, CSS3, JavaScript
 * **Open Source Software**: Opensouce software license, source code control
+* **Web Engineering Capstone Design, SW Pre-capstone Design, Capstone Design**
 
 <!--
 
