@@ -494,6 +494,8 @@ h1, h2, h3, h4 { line-height: 1.25; margin: 0 0 .5em; font-weight: 650; letter-s
 }
 .deflist dt:first-child { margin-top: 0; }
 .deflist dd { margin: 4px 0 0; color: var(--slate); font-size: 14.5px; }
+.deflist__items { margin: 4px 0 0; padding-left: 18px; }
+.deflist__items li { margin: 0 0 2px; }
 
 /* ---------- Figures ----------------------------------------------------- */
 
