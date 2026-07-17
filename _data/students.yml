@@ -9,6 +9,18 @@
 #     since: "2026"               # optional
 #     email: someone@hansung.ac.kr  # optional
 
-current: []
+current: [
+  - name: Jejoon Park
+    role: B.S. Student          # M.S. Student | Ph.D. Student | Undergraduate Researcher
+    topic: Cross-National Driving Automation
+    since: "2026"               # optional
+    email: 33.beautifulboy@hansung.ac.kr  # optional
+
+  - name: Yena Kim
+    role: B.S. Student          # M.S. Student | Ph.D. Student | Undergraduate Researcher
+    topic: Cross-National Driving Automation
+    since: "2026"               # optional
+    email:  2371429@hansung.ac.kr  # optional
+]
 
 alumni: []
