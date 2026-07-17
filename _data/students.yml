@@ -24,4 +24,27 @@ current:
     since: "2026"
     email: 2371429@hansung.ac.kr
 
-alumni: []
+alumni: 
+  - name: Hanbin Park
+    role: B.S. Student
+    topic: Blockchain-based Automotive OTA
+    since: "2025"
+    affiliation: Korea Univ.
+
+  - name: Geonwoo Kim
+    role: B.S. Student
+    topic: Blockchain-based Automotive OTA
+    since: "2025"
+    affiliation: Korea Univ.
+
+  - name: Hyejin Kim
+    role: B.S. Student
+    topic: Natural Language Processing using RAG
+    since: "2025"
+    affiliation: Ahnlab
+
+  - name: Kyungeun Min
+    role: B.S. Student
+    topic: WebRTC-based Video Chat 
+    since: "2022"
+    affiliation: AhnlaKorea Labor and Employment Serviceb
