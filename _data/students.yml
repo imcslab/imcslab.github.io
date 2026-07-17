@@ -2,6 +2,8 @@
 # "to be listed" notice instead.
 #
 # HOW TO ADD: copy a block into the right list, edit, commit.
+# An empty list is written `alumni: []`. When adding the first entry, delete
+# the `[]` — the items go on the lines below, not inside the brackets.
 #
 #   - name: Hong Gildong
 #     role: M.S. Student          # M.S. Student | Ph.D. Student | Undergraduate Researcher
@@ -9,18 +11,17 @@
 #     since: "2026"               # optional
 #     email: someone@hansung.ac.kr  # optional
 
-current: [
+current:
   - name: Jejoon Park
-    role: B.S. Student          # M.S. Student | Ph.D. Student | Undergraduate Researcher
+    role: B.S. Student
     topic: Cross-National Driving Automation
-    since: "2026"               # optional
-    email: 33.beautifulboy@hansung.ac.kr  # optional
+    since: "2026"
+    email: 33.beautifulboy@hansung.ac.kr
 
   - name: Yena Kim
-    role: B.S. Student          # M.S. Student | Ph.D. Student | Undergraduate Researcher
+    role: B.S. Student
     topic: Cross-National Driving Automation
-    since: "2026"               # optional
-    email:  2371429@hansung.ac.kr  # optional
-]
+    since: "2026"
+    email: 2371429@hansung.ac.kr
 
 alumni: []
