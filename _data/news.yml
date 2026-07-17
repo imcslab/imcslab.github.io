@@ -1,0 +1,58 @@
+# IMCS Lab news feed.
+#
+# HOW TO ADD AN ITEM (from github.com, no local tools needed):
+#   1. Open this file and click the pencil icon.
+#   2. Copy the block below, paste it at the TOP of the list, edit the values.
+#   3. Click "Commit changes". The site rebuilds within a minute or two.
+#
+#   - date: "Jul 2026"                 # free text, shown as-is
+#     tag: Publication                 # optional: Notice | Publication | Talk | Award | Event
+#     title: Short one-line headline
+#     body: >
+#       Optional longer text. Keep it indented under `body:`.
+#       Markdown links work: [text](https://example.com)
+#     points:                          # optional bullet list
+#       - First bullet
+#       - Second bullet
+#
+# Items are shown in the order written here — newest first.
+
+- date: "Ongoing"
+  tag: Notice
+  title: "Join our research team — graduate positions open"
+  body: >
+    We are recruiting Master's and Doctoral students for research on
+    **Automotive Software for Cybersecurity**. We look forward to receiving your
+    application and possibly welcoming you to our team at IMCS Lab.
+  points:
+    - "Research topics: anomaly detection for CAN IDS, PKI for EV Plug and Charge, blockchain and smart contracts for automotive transactions"
+    - "Positions: Master's or Doctoral program for graduate research opportunities"
+    - "Contact: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))"
+
+- date: "Apr 2026"
+  tag: Publication
+  title: "Paper accepted in IEEE Access"
+  body: >
+    *Adaptive Point Cloud Downsampling Based on 3D ROI Detection for Improved
+    Perceptual Quality* has been accepted for publication in IEEE Access.
+
+- date: "Nov 2025"
+  tag: Publication
+  title: "FedAWT published in Internet of Things"
+  body: >
+    *FedAWT: Adaptive federated learning via dynamic epoch adjustment for
+    heterogeneous clients in ad-hoc networks* appears in Internet of Things,
+    vol. 34, 101771.
+
+- date: "Jul 2025"
+  tag: Publication
+  title: "Bio-2FA-IoD published in Mathematics"
+  body: >
+    *Bio-2FA-IoD: A Biometric-Enhanced Two-Factor Authentication Protocol for
+    Secure Internet of Drones Operations* appears in Mathematics, vol. 13, no. 13.
+
+- date: "Notice"
+  tag: Notice
+  title: "The website address has changed"
+  body: >
+    The lab website has moved to [https://imcslab.github.io](https://imcslab.github.io).

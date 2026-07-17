@@ -1,0 +1,14 @@
+# Lab members. Both lists may be empty — the Students page then shows a
+# "to be listed" notice instead.
+#
+# HOW TO ADD: copy a block into the right list, edit, commit.
+#
+#   - name: Hong Gildong
+#     role: M.S. Student          # M.S. Student | Ph.D. Student | Undergraduate Researcher
+#     topic: Anomaly detection for in-vehicle networks
+#     since: "2026"               # optional
+#     email: someone@hansung.ac.kr  # optional
+
+current: []
+
+alumni: []

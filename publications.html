@@ -1,0 +1,39 @@
+---
+layout: page
+permalink: /publications/
+eyebrow: IMCS Lab
+title: Publications
+subtitle: Peer-reviewed journal articles and conference papers since 2020.
+---
+
+{% assign years = site.data.publications | map: "year" | uniq %}
+
+{% for year in years %}
+  <h2 class="pub-year">{{ year }}</h2>
+  <ul class="pub-list">
+    {% for pub in site.data.publications %}
+      {% if pub.year == year %}
+        <li class="pub-item">
+          <div>
+            <h3 class="pub-item__title">
+              {% if pub.url %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}
+              {% if pub.status %}<span class="pub-item__badge">{{ pub.status }}</span>{% endif %}
+            </h3>
+            <p class="pub-item__meta"><span class="pub-item__venue">{{ pub.venue }}</span>{% if pub.detail %}, {{ pub.detail }}{% endif %}</p>
+          </div>
+          <div class="pub-item__date">{{ pub.date }}</div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+<hr class="rule">
+
+<div class="callout">
+  <h2>Full publication list</h2>
+  <p>
+    A complete list, including earlier work and citation metrics, is available on
+    <a href="{{ site.scholar_url }}">Google Scholar</a>.
+  </p>
+</div>

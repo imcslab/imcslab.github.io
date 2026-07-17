@@ -1,0 +1,125 @@
+---
+layout: default
+title: Home
+---
+
+<section class="hero">
+  <div class="wrap">
+    <p class="hero__eyebrow">Hansung University · Division of Computer Engineering</p>
+    <h1 class="hero__title">Intelligent Mobility and Cybersecurity Lab.</h1>
+    <p class="hero__lead">
+      The IMCS Lab conducts pioneering research in intelligent mobility and cybersecurity.
+      Under the guidance of Prof. Seunghyun Park, we work on securing connected and
+      autonomous vehicles — from in-vehicle intrusion detection and risk assessment
+      methodology to EV charging authentication — creating solutions that impact both
+      academia and industry.
+    </p>
+    <div class="hero__actions">
+      <a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Research themes</a>
+      <a class="btn btn--ghost" href="{{ '/publications/' | relative_url }}">Publications</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2 class="section__title">Research topics</h2>
+    <p class="section__intro">
+      Our work spans automotive cybersecurity technology and regulation, and the
+      fundamental technologies that make autonomous driving dependable.
+    </p>
+
+    <div class="grid grid--2">
+      <article class="card">
+        <p class="card__kicker">Track 01</p>
+        <h3 class="card__title">Automotive Cybersecurity Technology and Regulation</h3>
+        <ul class="card__list">
+          <li>TARA (Threat Analysis and Risk Assessment) methods</li>
+          <li>CSMS (Cyber Security Management Systems) based on UN Regulation No. 155 and ISO/SAE 21434</li>
+          <li>Anomaly behavior and intrusion detection for in-vehicle networks</li>
+          <li>Plug and Charge based on ISO 15118</li>
+          <li>Blockchain and smart contracts for vehicle software</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <p class="card__kicker">Track 02</p>
+        <h3 class="card__title">Fundamental Technology for Autonomous Vehicles</h3>
+        <ul class="card__list">
+          <li>Recognizing moving objects from multiple sensing data fusion</li>
+          <li>Trajectory planning for collision avoidance</li>
+          <li>Automotive software update Over-The-Air (Automotive OTA)</li>
+        </ul>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section section--alt">
+  <div class="wrap">
+    <div class="section__head">
+      <h2 class="section__title">Latest news</h2>
+      <a class="link-more" href="{{ '/news/' | relative_url }}">All news</a>
+    </div>
+
+    <ul class="news-list">
+      {% for item in site.data.news limit: 3 %}
+        <li class="news-item">
+          <div class="news-item__date">{{ item.date }}</div>
+          <div>
+            {% if item.tag %}<span class="news-item__tag">{{ item.tag }}</span>{% endif %}
+            <h3 class="news-item__title">{{ item.title }}</h3>
+            {% if item.body %}<div class="news-item__body">{{ item.body | markdownify }}</div>{% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section__head">
+      <h2 class="section__title">Recent publications</h2>
+      <a class="link-more" href="{{ '/publications/' | relative_url }}">All publications</a>
+    </div>
+
+    <ul class="pub-list">
+      {% for pub in site.data.publications limit: 5 %}
+        <li class="pub-item">
+          <div>
+            <h3 class="pub-item__title">
+              {% if pub.url %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}
+              {% if pub.status %}<span class="pub-item__badge">{{ pub.status }}</span>{% endif %}
+            </h3>
+            <p class="pub-item__meta"><span class="pub-item__venue">{{ pub.venue }}</span>{% if pub.detail %}, {{ pub.detail }}{% endif %}</p>
+          </div>
+          <div class="pub-item__date">{{ pub.date }}</div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="contact-strip">
+  <div class="wrap">
+    <h2 class="section__title">Contact</h2>
+    <div class="contact-strip__grid">
+      <div>
+        <p class="contact-strip__label">Lab</p>
+        <p class="contact-strip__value">{{ site.lab_address }}</p>
+      </div>
+      <div>
+        <p class="contact-strip__label">Office</p>
+        <p class="contact-strip__value">{{ site.office_address }}</p>
+      </div>
+      <div>
+        <p class="contact-strip__label">Email</p>
+        <p class="contact-strip__value">
+          Prof. Seunghyun Park<br>
+          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

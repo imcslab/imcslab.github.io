@@ -1,0 +1,40 @@
+---
+layout: page
+permalink: /projects/
+eyebrow: IMCS Lab
+title: Projects
+subtitle: Funded research projects carried out by the lab.
+---
+
+{% for project in site.data.projects %}
+  <div class="entry">
+    <div class="entry__head">
+      <h2 class="entry__title">{{ project.title }}</h2>
+      <span class="entry__period">{{ project.period }}</span>
+    </div>
+    {% if project.funder %}<p class="entry__org">{{ project.funder }}</p>{% endif %}
+    {% if project.summary %}<p class="entry__note">{{ project.summary }}</p>{% endif %}
+    {% if project.points %}
+      <ul class="entry__points">
+        {% for point in project.points %}<li>{{ point }}</li>{% endfor %}
+      </ul>
+    {% endif %}
+    {% if project.image %}
+      <figure class="figure">
+        <img src="{{ project.image | relative_url }}" alt="{{ project.caption | default: project.title }}">
+        {% if project.caption %}<figcaption>{{ project.caption }}</figcaption>{% endif %}
+      </figure>
+    {% endif %}
+  </div>
+{% endfor %}
+
+<hr class="rule">
+
+<div class="callout">
+  <h2>Collaboration</h2>
+  <p>
+    We welcome joint research and industry collaboration on automotive cybersecurity and
+    intelligent mobility. Please contact Prof. Seunghyun Park at
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+  </p>
+</div>

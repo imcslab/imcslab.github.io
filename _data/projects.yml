@@ -1,0 +1,52 @@
+# Research projects, newest first.
+#
+# HOW TO ADD: copy a block, paste at the top, edit, commit.
+#
+#   - title: Project title
+#     period: "2026.3 ~ 2027.2"
+#     funder: Hansung University
+#     status: ongoing            # ongoing | completed
+#     summary: One or two sentences.
+#     points:                    # optional bullets
+#       - Detail
+#     image: /assets/uploads/Research_XXX_crop.png   # optional figure
+#     caption: Figure caption
+
+- title: "Research on Security Authentication Technology for Automatic Charging and Payment of Electric Vehicles"
+  period: "2022.9 – 2024.2"
+  funder: "Hansung University"
+  status: completed
+  summary: >
+    Authorization for EV charging and automatic payment based on ISO 15118,
+    using a Plug and Charge public key infrastructure with X.509 certificates.
+  image: /assets/uploads/Research_PnC_crop.png
+  caption: "Plug and Charge based on ISO 15118"
+
+- title: "Research on Moving Objects Recognition Technology for Autonomous Driving Collision Avoidance Control"
+  period: "2022.9 – 2024.2"
+  funder: "Hansung University"
+  status: completed
+  summary: >
+    Prediction of the movement and interference of moving objects in the driving
+    trajectory, supporting collision-avoidance control for autonomous driving.
+  image: /assets/uploads/Research_CollisionAvoidance_crop.png
+  caption: "Collision avoidance for autonomous driving"
+
+- title: "Modeling Research for Multi-link Operation of Wi-Fi 7"
+  period: "2022.9 – 2024.2"
+  funder: "Hansung University"
+  status: completed
+  summary: >
+    Performance modeling and analysis of multi-link operation in Wi-Fi 7,
+    including data division transmission and multi-AP coordination.
+
+- title: "Research on Automotive Cybersecurity Threat Analysis and Risk Assessment Methodology"
+  period: "2021.9 – 2022.8"
+  funder: "Hansung University"
+  status: completed
+  summary: >
+    Risk assessment from cyber threats, vulnerabilities, likelihood and damages
+    on target vehicles. The PIER approach considers cyber-resilience: beyond the
+    risk factors of probability and impact, it also covers exposure and recovery.
+  image: /assets/uploads/Research_TARA_PIER_crop.png
+  caption: "The PIER method for TARA"

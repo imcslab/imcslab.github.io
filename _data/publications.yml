@@ -1,0 +1,105 @@
+# Publications (since 2020), newest first.
+#
+# HOW TO ADD: copy a block, paste at the top, edit. Commit — that's it.
+# The Publications page groups by the `year` field automatically.
+#
+#   - year: 2026
+#     date: "Apr 2026"          # shown on the right
+#     type: journal             # journal | conference
+#     title: Paper title
+#     venue: Journal or conference name
+#     detail: "vol. 1, no. 2, pp. 3-4, (2026)."
+#     status: Accepted          # optional badge; omit when published
+#     url: https://doi.org/...  # optional link on the title
+
+- year: 2026
+  date: "Apr 2026"
+  type: journal
+  title: "Adaptive Point Cloud Downsampling Based on 3D ROI Detection for Improved Perceptual Quality"
+  venue: "IEEE Access"
+  detail: "(2026)."
+  status: Accepted
+
+- year: 2025
+  date: "Nov 2025"
+  type: journal
+  title: "FedAWT: Adaptive federated learning via dynamic epoch adjustment for heterogeneous clients in ad-hoc networks"
+  venue: "Internet of Things"
+  detail: "vol. 34, 101771, pp. 1–14, (2025)."
+
+- year: 2025
+  date: "Sep 2025"
+  type: journal
+  title: "Data Division Transmission Method with Performance Analysis in Wi-Fi 7 Multi-Link Operation"
+  venue: "IEICE Transactions on Communications"
+  detail: "vol. E108-B, no. 9, pp. 1052–1065, (2025)."
+
+- year: 2025
+  date: "Jul 2025"
+  type: journal
+  title: "Bio-2FA-IoD: A Biometric-Enhanced Two-Factor Authentication Protocol for Secure Internet of Drones Operations"
+  venue: "Mathematics"
+  detail: "vol. 13, no. 13, pp. 1–29, (2025)."
+
+- year: 2024
+  date: "Oct 2024"
+  type: journal
+  title: "Energy optimization and age of information enhancement in multi-UAV networks using deep reinforcement learning"
+  venue: "Electronics Letters"
+  detail: "vol. 60, no. 20, pp. 1–4, (2024)."
+
+- year: 2024
+  date: "Jul 2024"
+  type: journal
+  title: "PIER: cyber-resilient risk assessment model for connected and autonomous vehicles"
+  venue: "Wireless Networks"
+  detail: "vol. 30, pp. 4591–4605, (2024)."
+
+- year: 2024
+  date: "Apr 2024"
+  type: journal
+  title: "Dynamic Transmission and Delay Optimization Random Access for Reduced Power Consumption"
+  venue: "IEEE Access"
+  detail: "vol. 12, pp. 55033–55050, (2024)."
+
+- year: 2023
+  date: "Sep 2023"
+  type: journal
+  title: "Improvement of the Defense Planning and Management System to Implement ROK's National Cybersecurity Strategy"
+  venue: "The Korean Journal of Defense Analysis"
+  detail: "vol. 35, no. 3, pp. 337–360, (2023)."
+
+- year: 2022
+  date: "Dec 2022"
+  type: journal
+  title: "Fairness-Based Multi-AP Coordination Using Federated Learning in Wi-Fi 7"
+  venue: "Sensors"
+  detail: "vol. 22, no. 24, 9774, (2022)."
+
+- year: 2021
+  date: "Mar 2021"
+  type: journal
+  title: "Combined oversampling and undersampling method based on slow-start algorithm for imbalanced network traffic"
+  venue: "Computing"
+  detail: "vol. 103, pp. 401–424, (2021)."
+
+- year: 2020
+  date: "Oct 2020"
+  type: conference
+  title: "Performance comparison of multi-class SVM with oversampling methods for imbalanced data classification"
+  venue: "International Conference on Broadband and Wireless Computing, Communication and Applications (BWCCA)"
+  detail: "Lecture Notes in Networks and Systems (LNNS), vol. 159, pp. 108–119, (2020)."
+
+- year: 2020
+  date: "Jul 2020"
+  type: journal
+  title: "Hierarchical anomaly detection model for in-vehicle networks using machine learning algorithms"
+  venue: "Sensors"
+  detail: "vol. 20, no. 14, 3934, (2020)."
+
+- year: 2020
+  date: "Jan 2020"
+  type: journal
+  title: "Malware detection in self-driving vehicles using machine learning algorithms"
+  venue: "Journal of Advanced Transportation"
+  detail: "vol. 2020, 3035741, (2020)."

@@ -1,0 +1,27 @@
+---
+layout: page
+permalink: /news/
+eyebrow: IMCS Lab
+title: News
+subtitle: Announcements, publications, talks and events from the lab.
+---
+
+<ul class="news-list">
+  {% for item in site.data.news %}
+    <li class="news-item">
+      <div class="news-item__date">{{ item.date }}</div>
+      <div>
+        {% if item.tag %}<span class="news-item__tag">{{ item.tag }}</span>{% endif %}
+        <h2 class="news-item__title">{{ item.title }}</h2>
+        {% if item.body %}<div class="news-item__body">{{ item.body | markdownify }}</div>{% endif %}
+        {% if item.points %}
+          <div class="news-item__body">
+            <ul>
+              {% for point in item.points %}<li>{{ point | markdownify | remove: '<p>' | remove: '</p>' }}</li>{% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>

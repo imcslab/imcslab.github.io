@@ -1,0 +1,62 @@
+---
+layout: page
+permalink: /members/students/
+eyebrow: Members
+title: Students
+subtitle: Graduate and undergraduate researchers of the IMCS Lab.
+---
+
+{% assign current = site.data.students.current %}
+{% assign alumni = site.data.students.alumni %}
+
+{% if current and current.size > 0 %}
+  <h2 class="section__title">Current members</h2>
+  <div class="member-grid">
+    {% for m in current %}
+      <article class="member-card">
+        <h3 class="member-card__name">{{ m.name }}</h3>
+        <p class="member-card__role">{{ m.role }}{% if m.since %} · since {{ m.since }}{% endif %}</p>
+        {% if m.topic %}<p class="member-card__topic">{{ m.topic }}</p>{% endif %}
+        {% if m.email %}<p class="member-card__topic"><a href="mailto:{{ m.email }}">{{ m.email }}</a></p>{% endif %}
+      </article>
+    {% endfor %}
+  </div>
+{% else %}
+  <div class="empty-state">
+    <h2>To be listed</h2>
+    <p>Lab member profiles will be published here.</p>
+  </div>
+{% endif %}
+
+{% if alumni and alumni.size > 0 %}
+  <hr class="rule">
+  <h2 class="section__title">Alumni</h2>
+  <div class="member-grid">
+    {% for m in alumni %}
+      <article class="member-card">
+        <h3 class="member-card__name">{{ m.name }}</h3>
+        <p class="member-card__role">{{ m.role }}</p>
+        {% if m.topic %}<p class="member-card__topic">{{ m.topic }}</p>{% endif %}
+      </article>
+    {% endfor %}
+  </div>
+{% endif %}
+
+<hr class="rule">
+
+<div class="callout">
+  <h2>Join our innovative research team</h2>
+  <p>
+    We are recruiting Master's and Doctoral students for research on
+    <strong>Automotive Software for Cybersecurity</strong>.
+  </p>
+  <ul>
+    <li>Anomaly detection for CAN IDS</li>
+    <li>PKI for EV Plug and Charge</li>
+    <li>Blockchain and smart contracts for automotive transactions</li>
+  </ul>
+  <p>
+    Please contact Prof. Seunghyun Park at
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+  </p>
+</div>
