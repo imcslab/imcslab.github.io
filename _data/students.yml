@@ -6,10 +6,11 @@
 # the `[]` — the items go on the lines below, not inside the brackets.
 #
 #   - name: Hong Gildong
-#     role: M.S. Student          # M.S. Student | Ph.D. Student | Undergraduate Researcher
+#     role: M.S. Student          # M.S. Student | Ph.D. Student | B.S. Student
 #     topic: Anomaly detection for in-vehicle networks
 #     since: "2026"               # optional
 #     email: someone@hansung.ac.kr  # optional
+#     affiliation: Some Company   # optional, alumni only — shown as "Now at ..."
 
 current:
   - name: Jejoon Park
@@ -47,4 +48,4 @@ alumni:
     role: B.S. Student
     topic: WebRTC-based Video Chat 
     since: "2022"
-    affiliation: AhnlaKorea Labor and Employment Serviceb
+    affiliation: Korea Labor and Employment Service

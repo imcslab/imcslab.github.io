@@ -35,8 +35,9 @@ subtitle: Graduate and undergraduate researchers of the IMCS Lab.
     {% for m in alumni %}
       <article class="member-card">
         <h3 class="member-card__name">{{ m.name }}</h3>
-        <p class="member-card__role">{{ m.role }}</p>
+        <p class="member-card__role">{{ m.role }}{% if m.since %} · {{ m.since }}{% endif %}</p>
         {% if m.topic %}<p class="member-card__topic">{{ m.topic }}</p>{% endif %}
+        {% if m.affiliation %}<p class="member-card__affiliation">Now at {{ m.affiliation }}</p>{% endif %}
       </article>
     {% endfor %}
   </div>

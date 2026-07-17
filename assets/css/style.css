@@ -521,6 +521,7 @@ h1, h2, h3, h4 { line-height: 1.25; margin: 0 0 .5em; font-weight: 650; letter-s
 .member-card__name { margin: 0 0 2px; font-size: 17px; }
 .member-card__role { margin: 0 0 12px; font-size: 13px; color: var(--accent-dk); font-weight: 600; }
 .member-card__topic { margin: 0; font-size: 14px; color: var(--slate); }
+.member-card__affiliation { margin: 6px 0 0; font-size: 13px; color: var(--slate); }
 
 .empty-state {
   border: 1px dashed var(--line);
