@@ -13,12 +13,20 @@
 #     url: https://doi.org/...  # optional link on the title
 
 - year: 2026
+  date: "Jun 2026"
+  type: journal
+  title: "Noise-adaptive correction for robust graph neural networks in trusted graph computing"
+  venue: "Discover Computing"
+  detail: "vol. 29, no. 1, 327, (2026)."
+  url: https://doi.org/10.1007/s10791-026-10216-8
+
+- year: 2026
   date: "Apr 2026"
   type: journal
   title: "Adaptive Point Cloud Downsampling Based on 3D ROI Detection for Improved Perceptual Quality"
   venue: "IEEE Access"
-  detail: "(2026)."
-  status: Accepted
+  detail: "vol. 14, pp. 68039–68053, (2026)."
+  url: https://doi.org/10.1109/ACCESS.2026.3689278
 
 - year: 2025
   date: "Nov 2025"
