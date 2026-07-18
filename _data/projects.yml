@@ -12,6 +12,16 @@
 #     image: /assets/uploads/Research_XXX_crop.png   # optional figure
 #     caption: Figure caption
 
+- title: "Cross-National AI Mobility: Joint Korea–Japan Research on Cross-Domain Perception and LLM/VLM-Based Multimodal Decision Systems"
+  period: "2025.8 – 2026.8"
+  funder: "NRF"
+  status: ongoing
+  summary: >
+    A joint Korea–Japan research effort on cross-domain perception and
+    LLM/VLM-based multimodal decision systems for AI-driven mobility.
+  image: "/assets/uploads/2025_NRF-KRJP.png"
+  caption: "Cross-domain perception and multimodal decision-making for cross-national AI mobility"
+
 - title: "Research on Security Authentication Technology for Automatic Charging and Payment of Electric Vehicles"
   period: "2022.9 – 2024.2"
   funder: "Hansung University"
