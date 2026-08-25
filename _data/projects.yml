@@ -26,7 +26,7 @@
     - "Axis-B — TAR meta decision-making: a POMDP-based policy that chooses between Try, Ask and Refuse, followed by safe action execution with an action library and safety optimization"
     - "Axis-C — VLA+LoRA adapters that keep learning continually from the outcomes of attempted, asked and refused tasks"
     - "Axis-D — generalization across heterogeneous platforms, with sim-to-real validation and lightweight on-device deployment"
-    - "Supported by the 2026 Basic Research Program (Core Research — Basic Research Type A) of the Ministry of Science and ICT, funded by the National Research Foundation of Korea"
+    - "Supported by a 2026 Basic Research Grant (Core Research: Basic Research Type A), funded by the Ministry of Science and ICT (MSIT) and managed by the National Research Foundation of Korea (NRF)"
   image: "/assets/uploads/2026_NRF_TAR_framework.png"
   caption: "Try-Ask-Refuse framework: multimodal sensing, the Capability Frontier Model, TAR meta decision-making, and safe action execution across heterogeneous platforms"
 
