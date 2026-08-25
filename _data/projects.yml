@@ -12,6 +12,24 @@
 #     image: /assets/uploads/Research_XXX_crop.png   # optional figure
 #     caption: Figure caption
 
+- title: "Capability-Aware Safe Meta-Decision in Physical AI-Driven Robotics: A Try-Ask-Refuse Framework"
+  period: "2026.9 – 2031.8"
+  funder: "NRF"
+  status: ongoing
+  summary: >
+    A framework that lets a physical AI robot judge its own capability before
+    acting, and then choose among three meta-decisions — try the task,
+    ask a human for help, or refuse it — so that unsafe or infeasible
+    commands are declined instead of attempted.
+  points:
+    - "Axis-A — Capability Frontier Model: an uncertainty-aware model of what the robot can and cannot do, learned from multimodal sensing (vision, joint torque, force-moment, IMU)"
+    - "Axis-B — TAR meta decision-making: a POMDP-based policy that chooses between Try, Ask and Refuse, followed by safe action execution with an action library and safety optimization"
+    - "Axis-C — VLA+LoRA adapters that keep learning continually from the outcomes of attempted, asked and refused tasks"
+    - "Axis-D — generalization across heterogeneous platforms, with sim-to-real validation and lightweight on-device deployment"
+    - "Supported by the 2026 Basic Research Program (Core Research — Basic Research Type A) of the Ministry of Science and ICT, funded by the National Research Foundation of Korea"
+  image: "/assets/uploads/2026_NRF_TAR_framework.png"
+  caption: "Try-Ask-Refuse framework: multimodal sensing, the Capability Frontier Model, TAR meta decision-making, and safe action execution across heterogeneous platforms"
+
 - title: "Cross-National AI Mobility: Joint Korea–Japan Research on Cross-Domain Perception and LLM/VLM-Based Multimodal Decision Systems"
   period: "2025.8 – 2026.8"
   funder: "NRF"
