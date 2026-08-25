@@ -17,16 +17,6 @@
 #
 # Items are shown in the order written here — newest first.
 
-- date: "Aug 2026"
-  tag: Award
-  title: "Selected for the 2026 MSIT Basic Research Program (Core Research: Basic Research Type A)"
-  body: >
-    *Capability-Aware Safe Meta-Decision in Physical AI-Driven Robotics: A
-    Try-Ask-Refuse Framework* was selected for the 2026 Basic Research Program
-    (Core Research — Basic Research Type A) of the Ministry of Science and ICT,
-    funded by the National Research Foundation of Korea (NRF). The project runs
-    from September 2026 to August 2031.
-
 - date: "Ongoing"
   tag: Notice
   title: "Join our research team — graduate positions open"
@@ -38,6 +28,16 @@
     - "Research topics: anomaly detection for CAN IDS, PKI for EV Plug and Charge, blockchain and smart contracts for automotive transactions"
     - "Positions: Master's or Doctoral program for graduate research opportunities"
     - "Contact: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))"
+
+- date: "Aug 2026"
+  tag: Award
+  title: "Selected for the 2026 MSIT Basic Research Program (Core Research: Basic Research Type A)"
+  body: >
+    *Capability-Aware Safe Meta-Decision in Physical AI-Driven Robotics: A
+    Try-Ask-Refuse Framework* was selected for the 2026 Basic Research Program
+    (Core Research — Basic Research Type A) of the Ministry of Science and ICT,
+    funded by the National Research Foundation of Korea (NRF). The project runs
+    from September 2026 to August 2031.
 
 - date: "Aug 2026"
   tag: Service
