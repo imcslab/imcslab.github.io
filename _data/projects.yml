@@ -20,10 +20,11 @@
     A framework that lets a physical AI robot judge its own capability before
     acting, and then choose among three meta-decisions — try the task,
     ask a human for help, or refuse it — so that unsafe or infeasible
-    commands are declined instead of attempted.
-  points:
-    - "Supported by a 2026 Basic Research Grant, funded by the Ministry of Science and ICT (MSIT) and managed by the National Research Foundation of Korea (NRF)"
-    - "The project will run from September 2026 to August 2031, supported by a total of KRW 250 million over 5 years."
+    commands are declined instead of attempted. Supported by a 2026 Basic
+    Research Grant, funded by the Ministry of Science and ICT (MSIT) and
+    managed by the National Research Foundation of Korea (NRF). The project
+    will run from September 2026 to August 2031, with a total budget of
+    KRW 250 million over 5 years.
   image: "/assets/uploads/2026_NRF_TAR_framework.png"
   caption: "Try-Ask-Refuse framework: multimodal sensing, the Capability Frontier Model, TAR meta decision-making, and safe action execution across heterogeneous platforms"
 
