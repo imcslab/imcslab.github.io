@@ -6,7 +6,7 @@
 #   3. Click "Commit changes". The site rebuilds within a minute or two.
 #
 #   - date: "Jul 2026"                 # free text, shown as-is
-#     tag: Publication                 # optional: Notice | Publication | Service | Talk | Award | Event
+#     tag: Publication                 # optional: Notice | Publication | Service | Talk | Award | Grant | Event
 #     title: Short one-line headline
 #     body: >
 #       Optional longer text. Keep it indented under `body:`.
