@@ -29,14 +29,24 @@ alumni:
   - name: Hanbin Park
     role: B.S. Student
     topic: Blockchain-based Automotive OTA
-    since: "2025"
+    since: "2026"
     affiliation: Korea Univ.
 
   - name: Geonwoo Kim
     role: B.S. Student
     topic: Blockchain-based Automotive OTA
-    since: "2025"
+    since: "2026"
     affiliation: Korea Univ.
+
+  - name: Mijeong Park
+    role: B.S. Student
+    topic: Blockchain-based Automotive OTA
+    since: "2026"
+
+  - name: Seoyeon Gong
+    role: B.S. Student
+    topic: Blockchain-based Automotive OTA
+    since: "2026"
 
   - name: Hyejin Kim
     role: B.S. Student
