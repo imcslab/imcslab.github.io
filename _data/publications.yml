@@ -13,6 +13,14 @@
 #     url: https://doi.org/...  # optional link on the title
 
 - year: 2026
+  date: "Sep 2026"
+  type: journal
+  title: "ASTRA: Adaptive spatio-temporal representation for action recognition via importance-guided motion learning"
+  venue: "IEEE Journal of Selected Areas in Sensors"
+  detail: "(2026)."
+  status: Early Access
+
+- year: 2026
   date: "Jun 2026"
   type: journal
   title: "Noise-adaptive correction for robust graph neural networks in trusted graph computing"
