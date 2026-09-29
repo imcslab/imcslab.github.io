@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <title>Try-Ask-Refuse: capability-aware safe meta-decision for physical AI robots</title>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#6b7688"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="500" fill="#fff"/>
+
+  <!-- Command -->
+  <rect x="30" y="180" width="220" height="120" rx="10" fill="#f5f7fa" stroke="#6b7688" stroke-width="2"/>
+  <text x="140" y="222" text-anchor="middle" font-size="21" font-weight="700" fill="#0a1020">Command</text>
+  <text x="140" y="252" text-anchor="middle" font-size="15" fill="#4a5568">Natural-language task</text>
+  <text x="140" y="274" text-anchor="middle" font-size="15" fill="#4a5568">+ scene observation</text>
+
+  <line x1="250" y1="240" x2="298" y2="240" stroke="#6b7688" stroke-width="2" marker-end="url(#a)"/>
+
+  <!-- Capability assessment -->
+  <rect x="300" y="130" width="320" height="220" rx="10" fill="#fff" stroke="#2560db" stroke-width="2.5"/>
+  <text x="460" y="172" text-anchor="middle" font-size="21" font-weight="700" fill="#2560db">Capability assessment</text>
+  <g font-size="15" fill="#17202f">
+    <text x="326" y="212"><tspan font-weight="700">Skill</tspan> — can I do this at all?</text>
+    <text x="326" y="246"><tspan font-weight="700">Feasibility</tspan> — can I do it here?</text>
+    <text x="326" y="280"><tspan font-weight="700">Safety</tspan> — could it harm people?</text>
+    <text x="326" y="314"><tspan font-weight="700">Confidence</tspan> — how sure am I?</text>
+  </g>
+
+  <line x1="620" y1="240" x2="668" y2="240" stroke="#6b7688" stroke-width="2" marker-end="url(#a)"/>
+
+  <!-- Meta-decision -->
+  <path d="M750 180 L830 240 L750 300 L670 240 z" fill="#2560db"/>
+  <text x="750" y="236" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Meta-</text>
+  <text x="750" y="256" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">decision</text>
+
+  <path d="M830 240 C 860 240, 860 90, 896 90" fill="none" stroke="#6b7688" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="830" y1="240" x2="896" y2="240" stroke="#6b7688" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M830 240 C 860 240, 860 390, 896 390" fill="none" stroke="#6b7688" stroke-width="2" marker-end="url(#a)"/>
+
+  <!-- Outcomes -->
+  <rect x="900" y="40" width="270" height="100" rx="10" fill="#fff" stroke="#1f9d55" stroke-width="2.5"/>
+  <text x="924" y="80" font-size="21" font-weight="700" fill="#1f9d55">TRY</text>
+  <text x="924" y="112" font-size="15" fill="#17202f">Execute and monitor the task</text>
+
+  <rect x="900" y="190" width="270" height="100" rx="10" fill="#fff" stroke="#c77a00" stroke-width="2.5"/>
+  <text x="924" y="230" font-size="21" font-weight="700" fill="#c77a00">ASK</text>
+  <text x="924" y="262" font-size="15" fill="#17202f">Request clarification or help</text>
+
+  <rect x="900" y="340" width="270" height="100" rx="10" fill="#fff" stroke="#d64545" stroke-width="2.5"/>
+  <text x="924" y="380" font-size="21" font-weight="700" fill="#d64545">REFUSE</text>
+  <text x="924" y="412" font-size="15" fill="#17202f">Decline and explain why</text>
+
+  <!-- Human feedback loop -->
+  <path d="M1170 240 L1188 240 L1188 470 L460 470 L460 354" fill="none" stroke="#c77a00" stroke-width="2" stroke-dasharray="7 6" marker-end="url(#a)"/>
+  <text x="824" y="462" text-anchor="middle" font-size="15" fill="#c77a00">Human answer updates the assessment</text>
+</svg>
