@@ -22,10 +22,10 @@
   title: "Join our research team — graduate positions open"
   body: >
     We are recruiting Master's and Doctoral students for research on
-    **Automotive Software for Cybersecurity**. We look forward to receiving your
+    **Automotive Software for Cybersecurity** and **Physical AI**. We look forward to receiving your
     application and possibly welcoming you to our team at IMCS Lab.
   points:
-    - "Research topics: anomaly detection for CAN IDS, PKI for EV Plug and Charge, blockchain and smart contracts for automotive transactions"
+    - "Research topics: capability-aware safe decision-making for physical AI robots (Try-Ask-Refuse), LLM/VLM-based multimodal perception and decision for AI mobility, anomaly detection for CAN IDS, PKI for EV Plug and Charge, blockchain and smart contracts for automotive transactions"
     - "Positions: Master's or Doctoral program for graduate research opportunities"
     - "Contact: Prof. Seunghyun Park ([sp@hansung.ac.kr](mailto:sp@hansung.ac.kr))"
 
